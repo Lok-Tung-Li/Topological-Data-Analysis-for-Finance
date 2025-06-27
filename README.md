@@ -1,3 +1,5 @@
 # Topological-Data-Analysis-for-Finance
 
-In this notebook, we will discuss some papers and implement Topological Data Analysis methods to financial time series.
+TDA_for_FTS.ipynb: A notebook showcasing a custom quantitative finance framework for financial time series analysis, leveraging Topological Data Analysis (TDA) to model market dynamics and identify potential anomalies.
+
+TDA_FI.ipynb: A more academic notebook studying different TDA approaches applied on financial time series.
